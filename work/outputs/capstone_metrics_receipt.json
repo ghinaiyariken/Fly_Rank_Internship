@@ -1,0 +1,29 @@
+{
+  "test_window": "May 2026 features -> June 2026 outcome",
+  "held_out_rows": 184877,
+  "decline_base_rate": 0.647187,
+  "baseline": {
+    "precision_at_20": 0.8,
+    "precision_at_50": 0.78,
+    "auc": 0.519661
+  },
+  "logistic_regression": {
+    "precision_at_20": 0.8,
+    "precision_at_50": 0.82,
+    "auc": 0.572406
+  },
+  "random_forest": {
+    "precision_at_20": 0.8,
+    "precision_at_50": 0.6,
+    "auc": 0.597144
+  },
+  "leakage_demo_auc": 1.0,
+  "development_rows": 525057,
+  "development_decline_base_rate": 0.397,
+  "march_daily_rows": 9841378,
+  "march_daily_distinct_keys": 9841378,
+  "march_date_range": [
+    "2026-03-01",
+    "2026-03-31"
+  ]
+}

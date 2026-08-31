@@ -1,0 +1,21 @@
+Unnamed: 0,rank,client_hash_id,content_hash_id,score,reason_code,action,impressions,clicks,avg_position,gsc_measured_days,content_age_days
+0,1,client_23a62021009f63c4,content_0a2272d17ba57b76,0.806229,visible_page_one,review_content_and_intent,724.0,1.0,1.389503,30,86
+1,2,client_20259bd6705d81d4,content_d7aa781756a47b5f,0.805974,old_and_visible,review_refresh,904.0,1.0,0.956858,30,215
+2,3,client_810019792c9b8efc,content_783ef12fb7501fbc,0.802667,visible_page_one,review_content_and_intent,1243.0,1.0,2.032985,30,61
+3,4,client_62f4a7e64f5e0096,content_b3df4c79f98d291b,0.800311,visible_page_one,review_content_and_intent,4308.0,0.0,0.380223,30,171
+4,5,client_a80fca3f171ed1de,content_1b2092631f0fdb05,0.799049,lower_observed_volume,monitor,438.0,0.0,1.716895,30,108
+5,6,client_23a62021009f63c4,content_ccab5c41c5bd735c,0.798452,visible_page_one,review_content_and_intent,1282.0,0.0,2.394696,30,115
+6,7,client_0fa64a184f18a4a0,content_57a642bc5429d1bd,0.796993,visible_page_one,review_content_and_intent,791.0,1.0,1.508217,31,96
+7,8,client_e5c2aa26a8598242,content_cf2899a946970068,0.794722,visible_page_one,review_content_and_intent,2321.0,2.0,1.472641,31,59
+8,9,client_157ffe4d4a595515,content_194f0922b3a5343b,0.793928,visible_page_one,review_content_and_intent,2957.0,1.0,0.986473,31,45
+9,10,client_62f4a7e64f5e0096,content_5cd8d3e25b025e74,0.793497,lower_observed_volume,monitor,482.0,1.0,1.995851,31,86
+10,11,client_0fa64a184f18a4a0,content_612f4efcfecbe97e,0.793424,visible_page_one,review_content_and_intent,1390.0,1.0,2.125899,31,96
+11,12,client_73cda7b4e4f265ea,content_658f531253496843,0.79299,old_and_visible,review_refresh,4685.0,2.0,0.782284,31,247
+12,13,client_a80fca3f171ed1de,content_205af2799aa13699,0.792088,visible_page_one,review_content_and_intent,8464.0,1.0,1.245274,31,86
+13,14,client_a80fca3f171ed1de,content_6c6a949928fae037,0.791919,lower_observed_volume,monitor,455.0,1.0,1.896703,31,108
+14,15,client_62f4a7e64f5e0096,content_562c8dd6243a469d,0.791915,visible_page_one,review_content_and_intent,4436.0,0.0,1.486249,31,171
+15,16,client_23a62021009f63c4,content_7fdb3986c61f3cc6,0.791498,visible_page_one,review_content_and_intent,1240.0,0.0,2.235484,31,135
+16,17,client_62f4a7e64f5e0096,content_d74a3b93c9591706,0.789339,visible_page_one,review_content_and_intent,673.0,1.0,2.349183,31,82
+17,18,client_a80fca3f171ed1de,content_72876dd2f2f7c649,0.789126,lower_observed_volume,monitor,454.0,1.0,2.15859,31,132
+18,19,client_62f4a7e64f5e0096,content_fc175a7ec7c85885,0.786923,lower_observed_volume,monitor,354.0,1.0,2.011299,30,117
+19,20,client_62f4a7e64f5e0096,content_b0bb292c73011c48,0.786109,visible_page_one,review_content_and_intent,766.0,2.0,2.224543,31,48

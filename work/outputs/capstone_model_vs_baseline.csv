@@ -1,0 +1,4 @@
+Unnamed: 0,method,Precision@20,Precision@50,AUC,base_rate
+0,Week-4 transparent baseline,0.8,0.78,0.519661,0.647187
+1,Logistic regression,0.8,0.82,0.572406,0.647187
+2,Random forest,0.8,0.6,0.597144,0.647187
